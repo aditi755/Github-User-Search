@@ -52,7 +52,7 @@ function createUserCard(user) {
     main.innerHTML = cardHTML;
 }
 
-getUser("nabendu82");
+getUser("aditi755");
 
 form.addEventListener("submit", (e) => {
     e.preventDefault();
